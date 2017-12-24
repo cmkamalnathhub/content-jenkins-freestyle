@@ -1,4 +1,4 @@
-AWS Admin
+AWS Admin -1
 ---------------
 Duties:
 1.Experienced AWS Cloud Administrator to work alongside web and the application team to support transition and operation of it client web sites / applications in Amazon Cloud.
@@ -10,8 +10,8 @@ Duties:
 7.Estimating AWS usage costs and identifying operational cost control mechanisms
 8.Communicates orally and in writing to high level public officials, as well as a variety of audiences.
 9.Produce weekly activity reports, oral presentations, briefings, standard operating procedures (SOPs), software development life-cycle (SDLC) documents and checklists, risk and issues logs and required artifacts.
-10.Experience with AWS GovCloud and supporting technologies – VPC, EC2, S3, security groups, networking, monitoring. 
-11. Experience working with AWS CLI, Management Console, and infrastructure tools – Terraform, cloud-init, boto. 
+10.Experience with AWS GovCloud and supporting technologies â€“ VPC, EC2, S3, security groups, networking, monitoring. 
+11. Experience working with AWS CLI, Management Console, and infrastructure tools â€“ Terraform, cloud-init, boto. 
 
 
 
@@ -19,14 +19,14 @@ Cloud Operations Engineer
 ----------------------------------
 
 Key Responsibilities:
-•    Operational support of TraceLink’s J2EE and AWS based cloud platform.  This includes the monitoring and management of systems and application health, security, performance, and metrics, as well as the implementation of any tools/scripts required support this task.
-•    Monitor and support AWS EC2 instances, volumes and other services such ELB, S3, RDS, Elasticache, Redshift and DynamoDB through their entire lifecycle supporting multiple customer-facing and internal application stacks.
-•    Participate in an on-call rotation to respond to and address any system, application, or network issues, including those that occur outside normal business hours.
-•    Operate as an Agent in the Cloud Operations ticketing system.  This includes performing basic service configuration, providing logs, answering basic questions, and carrying out periodic maintenance tasks.
-•    Follow prescribed operating procedures and work instructions to support Tracelink’s cloud products.
-•    Communicate with all parts of the TraceLink organization, in both verbal and written capacities.
-•    Configure systems in accordance with instructions and training provided, as well as guidance from senior team members.
-•    Provide support and assistance to personnel from other departments in the company to ensure that they have the access and information that they need to perform their assigned tasks.
+â€¢    Operational support of TraceLinkâ€™s J2EE and AWS based cloud platform.  This includes the monitoring and management of systems and application health, security, performance, and metrics, as well as the implementation of any tools/scripts required support this task.
+â€¢    Monitor and support AWS EC2 instances, volumes and other services such ELB, S3, RDS, Elasticache, Redshift and DynamoDB through their entire lifecycle supporting multiple customer-facing and internal application stacks.
+â€¢    Participate in an on-call rotation to respond to and address any system, application, or network issues, including those that occur outside normal business hours.
+â€¢    Operate as an Agent in the Cloud Operations ticketing system.  This includes performing basic service configuration, providing logs, answering basic questions, and carrying out periodic maintenance tasks.
+â€¢    Follow prescribed operating procedures and work instructions to support Tracelinkâ€™s cloud products.
+â€¢    Communicate with all parts of the TraceLink organization, in both verbal and written capacities.
+â€¢    Configure systems in accordance with instructions and training provided, as well as guidance from senior team members.
+â€¢    Provide support and assistance to personnel from other departments in the company to ensure that they have the access and information that they need to perform their assigned tasks.
 
 AWS Developer
 --------------------
@@ -98,29 +98,29 @@ AWS Developer
 -------------------
 Required Skills:
 
-• Bachelor’s degree in computer science or engineering field with 6-12 years technical experience. Relevant domain experience may be accepted in place of a degree.
-• Experience provisioning, operating, and maintaining systems running on AWS
-• Thorough understanding of infrastructure (firewalls, load balancers, storage, monitoring, security etc) and have experience with orchestration to develop a cloud solution.
-• Hands on experience with AWS and a strong understanding of AWS capabilities and limitations
-• Experience with Java backend development
-• Experience with Java Persistence API
-• Experience with Java Application Servers
-• Experience with Java Frameworks (i.e., Spring, Grails, Play)
-• Experience designing and developing SOAP and RESTful Services
-• Experience with Messaging
-• Experience with Designing Scalable Web Applications
-• Experience with SQL Database Technologies 
-• Java/JEE development experience
-• Knowledge of XML schemas and associated tools
-• Experience with object-oriented analysis and design techniques
-• Experience designing and implementing Service Oriented Architectures and related technologies
-• Experience with Software Configuration Management (SCM) tools (e.g. Subversion, Maven and Git)
-• High level of self-motivation, desire to deliver stellar solutions and willingness to work in a distributed team environment
-• Excellent interpersonal and customer service skills
-• Ability to multi-task in a dynamic environment with changing priorities
-• Strong troubleshooting and communication skills
-• US citizen
-• Ability to obtain a DoD Top Secret/SCI security clearance
+â€¢ Bachelorâ€™s degree in computer science or engineering field with 6-12 years technical experience. Relevant domain experience may be accepted in place of a degree.
+â€¢ Experience provisioning, operating, and maintaining systems running on AWS
+â€¢ Thorough understanding of infrastructure (firewalls, load balancers, storage, monitoring, security etc) and have experience with orchestration to develop a cloud solution.
+â€¢ Hands on experience with AWS and a strong understanding of AWS capabilities and limitations
+â€¢ Experience with Java backend development
+â€¢ Experience with Java Persistence API
+â€¢ Experience with Java Application Servers
+â€¢ Experience with Java Frameworks (i.e., Spring, Grails, Play)
+â€¢ Experience designing and developing SOAP and RESTful Services
+â€¢ Experience with Messaging
+â€¢ Experience with Designing Scalable Web Applications
+â€¢ Experience with SQL Database Technologies 
+â€¢ Java/JEE development experience
+â€¢ Knowledge of XML schemas and associated tools
+â€¢ Experience with object-oriented analysis and design techniques
+â€¢ Experience designing and implementing Service Oriented Architectures and related technologies
+â€¢ Experience with Software Configuration Management (SCM) tools (e.g. Subversion, Maven and Git)
+â€¢ High level of self-motivation, desire to deliver stellar solutions and willingness to work in a distributed team environment
+â€¢ Excellent interpersonal and customer service skills
+â€¢ Ability to multi-task in a dynamic environment with changing priorities
+â€¢ Strong troubleshooting and communication skills
+â€¢ US citizen
+â€¢ Ability to obtain a DoD Top Secret/SCI security clearance
 
 
 Cloud Developer
